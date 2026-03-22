@@ -1,0 +1,282 @@
+* {
+
+    margin: 0;
+}
+
+body {
+    background-color: #191918;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header {
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.header_head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.he {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.zakaz {
+    color: white;
+    height: 900px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.aeroport {
+    width: 500px;
+    height: 300px;
+
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.travelandleisure.com/thmb/91iWBPRMMUxLTSwGL8iduQ77RPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-dallas-fort-worth-international-airport-LNGSTWALKAIRPORT0725-62ee987fd892426b90f3390f03c3889e.jpg");
+    box-shadow: 0 0 5px 5px;
+}
+
+.taksi {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.jemo.ru/upload/news/image/source/8400.png");
+    box-shadow: 0 0 5px 5px;
+
+}
+
+.avto {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://mintrans.uz/files/original/publication_gallery/b11349b22d3a3342836dd1bd8eb51edc.jpg");
+    box-shadow: 0 0 5px 5px;
+}
+
+.eda {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://cdn.novikovspace.com/uploads/partners/photo1701865916-e1701941521538.jpeg");
+    box-shadow: 0 0 5px 5px;
+}
+
+.evos {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.afisha.uz/uploads/media/2025/06/6c165a72b92448f3f2a2cd559408402d_l.webp");
+    box-shadow: 0 0 5px 5px;
+}
+
+.mix {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvfHNVuCgrDtMzGzWTDYsin9t2vx-bbkzWw&s");
+    box-shadow: 0 0 5px 5px;
+}
+
+.mc {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.spot.uz/media/img/2017/12/kxII8h15129652624098_l.jpg");
+    box-shadow: 0 0 5px 5px;
+}
+
+.oq {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://imageproxy.wolt.com/assets/680227bbee59a586b19e654c");
+    box-shadow: 0 0 5px 5px;
+}
+
+.rasm {
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.a {
+    width: 100%;
+    height: 100%;
+}
+
+.menyu {
+
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+
+}
+
+.tepa {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+
+.tepa2 {
+    width: 500px;
+    height: 300px;
+
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.mana {
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+
+
+}
+
+@media (max-width: 320px) {
+    .zakaz{
+        height: 3000px;
+    }
+  .box{
+      display: flex;
+      flex-direction: column;
+  }
+  .aeroport {
+      width: 250px;
+  }
+  .taksi {
+      width: 250px;
+  }
+  .avto {
+      width: 250px;
+  }
+  .eda{
+      width: 250px;
+  }
+   .evos{
+       width: 250px;
+   }
+   .mix{
+       width: 250px;
+   }
+   .mc{
+       width: 250px;
+
+   }
+   .oq{
+       width: 250px;
+   }
+   .tepa{
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       align-items: center;
+       justify-content: center;
+   }
+   .tepa2{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+   }
+   .mana{
+
+       width: 300px;
+   }
+
+}
+
